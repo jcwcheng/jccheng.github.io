@@ -2,8 +2,8 @@ name: Justin Cheng
 bio: 'A Man who travels the world eating noodles'
 picture: 'assets/images/profile.jpg'
 
-url: http://jccheng.github.io
-# your url: http://jccheng.github.io
+url: http://jcwcheng.github.io
+# your url: http://jcwcheng.github.io
 permalink: /:title/
 
 analytics: 'UA-MYANALYTICS'
