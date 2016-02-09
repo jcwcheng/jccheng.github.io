@@ -1,0 +1,40 @@
+name: Justin Cheng
+bio: 'A Man who travels the world eating noodles'
+picture: 'assets/images/profile.jpg'
+
+url: http://jccheng.github.io
+# your url: http://jccheng.github.io
+permalink: /:title/
+
+analytics: 'UA-MYANALYTICS'
+# disqus: 
+# facebook: 
+# twitter: 
+# instagram: 
+# linkedin: 
+# youtube: 
+# spotify: 
+github: https://github.com/jcwcheng
+# dribbble:
+email: justccheng@gmail.com
+
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# if you don't need projects, comment the *projects* configs below
+projects: true
+
+gems:
+  - jemoji
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate
+
+jekyll-mentions:
+    base_url: https://github.com
