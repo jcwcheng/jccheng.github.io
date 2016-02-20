@@ -280,7 +280,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   color: #222;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -426,6 +426,10 @@ pre {
 .projects .home__header h1 {
   font-size: 4rem;
   margin-bottom: 13px;
+}
+.home .home__header h1{ 
+  font-family: 'Montserrat', Helvetica, Arial, sans-serif; 
+  letter-spacing: -.1rem;
 }
 .home .home__header h2,
 .blog .home__header h2,
