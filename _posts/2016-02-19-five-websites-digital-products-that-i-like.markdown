@@ -26,6 +26,8 @@ My eyes were immensely pleased by *Hello Monday*’s brilliant work. This site p
 ## **[Benjamin Guedj - French designer](http://www.oursroux.com/ "Benjamin Guedj - French designer"){:target="_blank"}**
 
 I truly enjoyed the way *Benjamin Guedj* made use of the color, font, and imagery within his portfolio, which made everything feel together and connected. He took advantage of his sense of beauty in work, and used the layout to serve as a foil to deliver this unique elegance. The colors presented consistency and harmony throughout the site, and you will notice that each of his projects has its own primary color and secondary color motif. Overall, I really enjoyed how well the elements of the site complemented each other, creating a clean and simple look. 
+
+
 <br><br>
 ![Red Collar digital agency](/assets/images/red-collar-digital-agency.png)
 
