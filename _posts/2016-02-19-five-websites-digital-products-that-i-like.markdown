@@ -4,6 +4,7 @@ layout: post
 date: 2016-02-19 11:00
 tag: markdown
 blog: true
+comments: true
 #star: true
 ---
 ![Hello Monday](/assets/images/hello-monday.png)
