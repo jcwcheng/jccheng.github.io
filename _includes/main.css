@@ -426,10 +426,8 @@ pre {
 .projects .home__header h1 {
   font-size: 4rem;
   margin-bottom: 13px;
-}
-.home .home__header h1{ 
   font-family: 'Montserrat', Helvetica, Arial, sans-serif; 
-  letter-spacing: -.1rem;
+  letter-spacing: -.1rem;  
 }
 .home .home__header h2,
 .blog .home__header h2,
@@ -597,7 +595,7 @@ pre {
 .post h1.post__title {
   text-align: center;
   margin-bottom: 3rem;
-  letter-spacing: -0.02rem;
+  letter-spacing: -0.04rem;
   color: rgba(0,0,0,.8);
 }
 .post h2,
