@@ -270,7 +270,7 @@ html {
 }
 body {
   line-height: 1;
-  font: 16px 'Open Sans', Helvetica, Arial, sans-serif;
+  font: 18px 'Open Sans', Helvetica, Arial, sans-serif;
 }
 color alpha {
   -webkit-font-smoothing: antialiased;
@@ -306,11 +306,11 @@ a {
 }
 p {
   line-height: 2;
-  color:rgba(20,20,20,.8);
+  color:rgba(80,80,80,.8);
   font-weight: 300;
   margin-bottom: 20px;
-  letter-spacing: 0.03rem;
-    -webkit-font-smoothing: antialiased;
+  letter-spacing: .01rem;
+  -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
 @media only screen and (max-width: 400px) {
@@ -603,11 +603,11 @@ pre {
 .post h4 {
   margin-top: 40px;
 }
-.post h2 a,
-.post h3 a,
-.post h4 a {
-  text-decoration: none;
-}
+// .post h2 a,
+// .post h3 a,
+// .post h4 a {
+//   text-decoration: none;
+// }
 .post span time {
   color: #aaa;
   font-weight: 300;
