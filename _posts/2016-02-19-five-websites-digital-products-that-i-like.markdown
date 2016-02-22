@@ -11,7 +11,7 @@ comments: true
 
 ## **[Hello Monday](http://hellomonday.com/ "Hello Monday"){:target="_blank"}**
 
-My eyes were immensely pleased by *Hello Monday*’s brilliant work. This site presents their talents perfectly, and it is evident that they have taken good care of all the output across browsers. You can tell they put considerable effort into ensuring the website's compatibility on all deivces. I admire that they managed the effects very precisely when users hover their mouse cursor around the canvas of the landing page, the objects in the background reacts the position of users' cursor offsetting simultaneously. *Hello Monday*'s' high-quality work on website performance and great usability, which goes to show that this is not just a craft, but also a functional product.
+My eyes were immensely pleased by *Hello Monday*’s brilliant work. This site presents their talents perfectly, and it is evident that they have taken good care of all the output across browsers. You can tell they put considerable effort into ensuring the website's compatibility on all deivces. I admire that they managed the effects very precisely - when users hover their mouse cursor around the canvas of the landing page, the objects in the background react to the position of the user’s cursor, simultaneously offsetting the surroundings. *Hello Monday*’s high-quality work on website performance and its great usability demonstrate that this is not just a craft, but also a functional product.
 
 <br><br>
 ![Signes du Quotidien - Atelier de design graphique](/assets/images/signes-du-quotidien.png)
