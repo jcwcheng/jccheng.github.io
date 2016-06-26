@@ -1,5 +1,5 @@
 ---
-title: "Give an example of trusted brands and discuss why they are successful"
+title: "Five Websites / Digital Products that I Like"
 layout: post
 date: 2016-02-19 11:00
 tag: markdown

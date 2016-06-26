@@ -1,7 +1,7 @@
 ---
-title: "Five Websites / Digital Products that I Like"
+title: "Give an example of trusted brands and discuss why they are successful"
 layout: post
-date: 2016-02-19 11:00
+date: 2016-06-25 23:40
 tag: markdown
 blog: true
 comments: true
@@ -19,7 +19,4 @@ More and more, start-ups are starting to rely on this peer-to-peer exchange appr
 Another factor that contributes to Airbnb's growing success is their benevolent treatment of their employees. They offer a comprehensive set of perks and stipends for their employees, such as a $2,000 yearly allowance to let them visit any country where there is an Airbnb listing. The company also promotes an inspiring and friendly working environment, treating their employees as Airbnb's vital assets. All employees have a holistic support plan, allowing them to focus on their work without worrying too much about the trivial details in life. 
 
 Unquestionably, Airbnb has been providing a service that positively impacts people's lives. With today's technological advancements, users can make a reservation directly from their mobile device, and immediately ask the host for travel advice. Airbnb has undoubtedly established a successful collaborative business model. 
-
-
-<br><br>
 
