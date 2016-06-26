@@ -20,3 +20,7 @@ Another factor that contributes to Airbnb's growing success is their benevolent 
 
 Unquestionably, Airbnb has been providing a service that positively impacts people's lives. With today's technological advancements, users can make a reservation directly from their mobile device, and immediately ask the host for travel advice. Airbnb has undoubtedly established a successful collaborative business model. 
 
+#####References:#####
+#####Messiah, Nancy. "12 tech companies that offer their employees the coolest perks." The Next Web, Inc. 19 June 2012. Web. 24 June 2016.#####
+#####"Sharing economy" Wikipedia: The Free Encyclopedia. Wikimedia Foundation, Inc. 22nd July 2004. Web. 25 June 2016.#####
+ 
